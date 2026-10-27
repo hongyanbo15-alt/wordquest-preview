@@ -1,0 +1,25 @@
+{
+  "repository": "https://github.com/akbartus/Handwriting-Recognition-in-VR",
+  "commit": "e00a35c0e4bd3d797febdc7853675634e463da54",
+  "license": "MIT",
+  "files": [
+    {
+      "source": "serveless/misc/model_fp16/model.json",
+      "name": "model.json",
+      "size": 5485,
+      "sha256": "fcd8f1020c40ef6775191d63669afdd448335ef6d5f9e1ff547ba7294d8dea50"
+    },
+    {
+      "source": "serveless/misc/model_fp16/group1-shard1of1.bin",
+      "name": "group1-shard1of1.bin",
+      "size": 201012,
+      "sha256": "1bcc650a53c0e9f4ad71c8190bde60b345b32610403c3b7aa7aacc7ed780ae82"
+    },
+    {
+      "source": "LICENSE",
+      "name": "LICENSE",
+      "size": 1065,
+      "sha256": "edf2faa5a5e7ca238a431229acdedefafe535a8edc482d8b09716b37706ed234"
+    }
+  ]
+}
