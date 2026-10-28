@@ -1,8 +1,0 @@
-{
-  "repository": "https://github.com/shashank11yadav/AccuScan",
-  "commit": "faf7bdf130f70165234911d40dde5aa37e503ce0",
-  "source": "web/public/models/model.onnx",
-  "license": "MIT",
-  "size": 4812573,
-  "sha256": "7ecd20c5721f8ee3b16ac89f252915a0d219d348e9f3747230debf661a1386f0"
-}
